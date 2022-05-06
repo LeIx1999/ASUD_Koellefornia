@@ -1,0 +1,7 @@
+Am Anfang arbeitet jeder in seinen eigenen Branches (Branch_Jonas, Branch_Jannis, etc.)
+
+Variablen werden wie folgt bezeichnet:
+    - Englische Bezeichnung
+    - Kleinschreibung (Außer wir definieren Klassen)
+    - Trennung per Unterstrich (name1_name2)
+    
